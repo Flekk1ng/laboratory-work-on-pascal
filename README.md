@@ -1,1 +1,1 @@
-# -laboratory-work-on-pascal
+# laboratory-work-on-pascal
